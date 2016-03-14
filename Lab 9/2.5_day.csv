@@ -1,0 +1,35 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type
+2015-03-25T19:29:10.660Z,-29.4566,-69.3607,104.04,4.9,mb,,51,1.252,0.65,us,us10001qps,2015-03-25T21:31:33.899Z,"105km NW of San Jose de Jachal, Argentina",earthquake
+2015-03-25T19:22:44.160Z,49.4216,-128.1521,7,4.9,mwr,,145,2.766,1.62,us,us10001qpf,2015-03-25T22:39:22.671Z,"151km SSW of Port Hardy, Canada",earthquake
+2015-03-25T18:43:13.050Z,-36.1424,-73.5824,11.91,4.9,mb,,76,0.831,0.53,us,us10001qnu,2015-03-25T20:23:12.838Z,"76km NNW of Talcahuano, Chile",earthquake
+2015-03-25T18:34:04.400Z,36.5947,-98.1632,5.905,2.5,ml,,97,,0.54,us,us10001qpz,2015-03-25T20:47:32.579Z,"10km ENE of Helena, Oklahoma",earthquake
+2015-03-25T18:21:54.000Z,63.6089,-150.7813,0.3,2.8,ml,,,,1,ak,ak11537457,2015-03-25T18:58:10.888Z,"93km WSW of Healy, Alaska",earthquake
+2015-03-25T17:33:58.700Z,35.65,-97.3673,5.181,3.2,ml,,40,,0.32,us,us10001qnr,2015-03-25T21:30:19.317Z,"10km E of Edmond, Oklahoma",earthquake
+2015-03-25T15:13:04.200Z,36.7835,-98.0136,6.206,2.5,ml,,68,,0.51,us,us10001qn8,2015-03-25T16:49:52.352Z,"25km W of Medford, Oklahoma",earthquake
+2015-03-25T14:58:50.970Z,29.2194,142.0152,8.36,4.7,mb,,85,2.121,0.85,us,us10001qmr,2015-03-25T23:01:43.991Z,"237km N of Chichi-shima, Japan",earthquake
+2015-03-25T14:56:13.600Z,18.4836,-66.2959,98,2.6,Md,7,190.8,0.22188388,0.09,pr,pr15084003,2015-03-25T22:58:52.362Z,"3km N of San Antonio, Puerto Rico",earthquake
+2015-03-25T14:53:04.200Z,40.5058333,-124.4021667,22.99,2.69,md,22,226,0.05278,0.08,nc,nc72417155,2015-03-25T22:55:41.569Z,"14km SW of Ferndale, California",earthquake
+2015-03-25T14:48:26.000Z,61.602,-146.7356,19.2,2.5,ml,,,,0.69,ak,ak11537378,2015-03-25T22:51:01.265Z,"56km NNW of Valdez, Alaska",earthquake
+2015-03-25T14:14:54.000Z,-36.303,-73.803,42,4.5,mb,,,,0.92,us,us10001qm6,2015-03-25T16:04:48.256Z,"76km NW of Talcahuano, Chile",earthquake
+2015-03-25T13:59:32.330Z,-7.0449,129.2379,180.83,4.9,mb,,38,2.245,0.75,us,us10001qm4,2015-03-25T22:02:02.090Z,"250km WNW of Saumlaki, Indonesia",earthquake
+2015-03-25T11:48:15.000Z,61.6171,-146.4692,12.2,2.5,ml,,,,0.76,ak,ak11537314,2015-03-25T19:50:52.223Z,"54km N of Valdez, Alaska",earthquake
+2015-03-25T11:21:02.900Z,-21.6322,-68.4839,124.6,4.5,mb,,61,1.053,0.87,us,us10001qlu,2015-03-25T19:23:41.527Z,"103km NNE of Calama, Chile",earthquake
+2015-03-25T10:03:05.300Z,-20.6715,-70.7642,17.78,4.5,mwr,,140,0.556,0.84,us,us10001qkv,2015-03-25T18:05:35.896Z,"81km SW of Iquique, Chile",earthquake
+2015-03-25T08:54:47.920Z,36.1275,-97.3109,3.94,2.9,mb_lg,,37,0.35,0.45,us,us10001qku,2015-03-25T17:04:18.330Z,"18km S of Perry, Oklahoma",earthquake
+2015-03-25T08:46:59.500Z,19.047,-64.7885,7,3,Md,3,338.4,0.87136583,0.21,pr,pr15084002,2015-03-25T16:49:58.801Z,"72km NNW of Road Town, British Virgin Islands",earthquake
+2015-03-25T07:59:47.690Z,53.7751,161.5104,40.02,4.5,mb,,113,1.871,0.93,us,us10001qkm,2015-03-25T16:02:16.935Z,"206km ENE of Petropavlovsk-Kamchatskiy, Russia",earthquake
+2015-03-25T07:59:34.390Z,-13.6734,166.6351,52.89,4.5,mb,,143,1.847,1.33,us,us10001qkq,2015-03-25T16:02:09.829Z,"101km WNW of Sola, Vanuatu",earthquake
+2015-03-25T07:02:37.000Z,60.0439,-141.9679,6.5,2.5,ml,,,,0.83,ak,ak11537244,2015-03-25T15:05:09.768Z,"25km E of Cape Yakataga, Alaska",earthquake
+2015-03-25T06:41:32.320Z,36.5732,71.3578,116.39,4.8,mb,,71,0.834,1.17,us,us10001qk5,2015-03-25T14:44:13.333Z,"19km SW of Ashkasham, Afghanistan",earthquake
+2015-03-25T05:57:22.000Z,61.9951,-150.5194,60.8,2.9,ml,,,,0.84,ak,ak11537227,2015-03-25T13:59:52.213Z,"37km NW of Willow, Alaska",earthquake
+2015-03-25T04:57:14.240Z,32.4507,-97.1255,5,2.6,mb_lg,,44,0.466,0.97,us,us10001qjw,2015-03-25T17:09:40.415Z,"2km NW of Venus, Texas",earthquake
+2015-03-25T03:56:36.000Z,17.5291,-64.3365,33,3.1,Md,4,352.8,0.464429,0.43,pr,pr15084001,2015-03-25T11:59:17.306Z,"45km ESE of Christiansted, U.S. Virgin Islands",earthquake
+2015-03-25T03:15:16.990Z,36.2665,-97.3907,3.85,3.3,mb_lg,,33,0.471,0.41,us,us10001qje,2015-03-25T06:02:10.223Z,"9km WSW of Perry, Oklahoma",earthquake
+2015-03-25T02:40:40.290Z,36.0303333,-117.615,1.8,2.61,ml,29,51,0.09505,0.17,ci,ci37347888,2015-03-25T15:53:12.340Z,"28km ENE of Little Lake, California",earthquake
+2015-03-25T00:34:27.830Z,42.2947,143.0541,58.46,5.1,mb,,107,0.289,0.88,us,us10001qiu,2015-03-25T03:26:23.040Z,"56km E of Shizunai, Japan",earthquake
+2015-03-25T00:15:27.040Z,36.5828,-97.619,1.47,3.6,mb_lg,,65,0.303,0.29,us,us10001qim,2015-03-25T05:59:15.346Z,"26km SSE of Medford, Oklahoma",earthquake
+2015-03-25T00:12:28.000Z,18.419,-67.431,16,2.7,Md,3,298.8,0.30722383,0.07,pr,pr15084000,2015-03-25T08:14:57.737Z,"21km WNW of Rincon, Puerto Rico",earthquake
+2015-03-25T00:10:57.670Z,36.7402,-98.0028,3.97,3,mb_lg,,30,0.159,0.47,us,us10001qil,2015-03-25T05:58:37.926Z,"25km WSW of Medford, Oklahoma",earthquake
+2015-03-24T23:57:01.800Z,18.8999,-64.4483,46,2.8,Md,3,349.2,0.98635018,0.1,pr,pr15083004,2015-03-25T07:59:36.479Z,"56km NNE of Road Town, British Virgin Islands",earthquake
+2015-03-24T23:53:18.160Z,36.435,-97.7321,5,3,mb_lg,,38,0.214,0.57,us,us10001qii,2015-03-25T01:28:34.415Z,"13km ENE of Enid, Oklahoma",earthquake
+2015-03-24T23:45:59.880Z,36.4328,-97.7182,5,3,mb_lg,,51,0.225,0.61,us,us10001qig,2015-03-25T01:22:19.498Z,"14km ENE of Enid, Oklahoma",earthquake
